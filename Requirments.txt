@@ -1,0 +1,44 @@
+# Core utilities
+packaging
+setuptools
+wheel
+
+# Data analysis
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+tensorflow
+torch
+xgboost
+
+# Web development / APIs
+flask
+fastapi
+requests
+
+# Databases
+sqlalchemy
+psycopg2-binary
+pymongo
+
+# Jupyter / Notebooks
+jupyter
+notebook
+ipython
+
+# Testing
+pytest
+unittest-xml-reporting
+
+# Automation / DevOps
+python-dotenv
+pylint
+black
